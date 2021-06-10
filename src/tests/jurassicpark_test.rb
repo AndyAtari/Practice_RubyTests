@@ -1,5 +1,5 @@
 require "test/unit"
-require_relative "./jurassicpark"
+require_relative "../rb/jurassicpark"
 
 class JurassicParkTest < Test::Unit::TestCase
 
